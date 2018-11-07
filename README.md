@@ -4,4 +4,4 @@ will be adding a batch/bat file to run remotely on the machine with some obufusc
 to run install latest python build (if not already installed) using pip or directly from the python.org
 
 run the script, 
-it will start the server with an instructions to connect.
+it will start the server with instructions to connect.
